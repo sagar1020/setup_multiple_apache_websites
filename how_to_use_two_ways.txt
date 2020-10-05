@@ -1,3 +1,4 @@
+setting of the parameter.
 There are two different ways to set the two parameters (the master home directory of websites and the domains to be created).
 
 1) At the command line.  Check out the -h (Help) switch
